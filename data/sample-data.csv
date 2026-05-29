@@ -1,0 +1,7 @@
+month,area,system,kpi,planned,completed,open_issues,availability_percent,mttr_hours,status
+2026-03,Operations,SDAI,Preventive Maintenance,42,39,3,98.7,2.4,On Track
+2026-03,Operations,CFTV,Corrective Maintenance,31,28,5,97.9,3.1,Attention
+2026-03,Operations,SCA,Incident Resolution,24,22,2,99.1,1.8,On Track
+2026-03,Maintenance,SDAI,Failure Analysis,18,16,4,98.2,2.9,Attention
+2026-03,Maintenance,CFTV,Inspection,36,34,2,98.9,2.2,On Track
+2026-03,Maintenance,SCA,Performance Monitoring,29,27,1,99.3,1.6,On Track
